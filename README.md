@@ -1,6 +1,7 @@
 # ReapersDayOffProject
 An iOS and iPadOS game made with SpriteKit and GameplayKit with Controller support.
 * Frameworks: SpriteKit, GameplayKit, GameKit, GameController, Core Haptics, AVFoundation
+* Entity Component System Architecture, Scene Management, Controller Support and Focus based Navigation, Touch Controls, Game States, Leaderboards, Physics and Collisions, Level Design. 
 <img align="right" width="180" height="180" src="RDO.png">
 <p align="left">
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt= "platform ios"/> 
